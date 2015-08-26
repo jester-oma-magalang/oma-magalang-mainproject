@@ -12,7 +12,7 @@
 						    <h3 class="form-signin-heading">Welcome Back! Please Sign In</h3>
 							  <hr class="colorgraph"><br>
 							  
-							  <input type="text" class="form-control" name="username" placeholder="Username" required="" autofocus="" />
+							  <input type="text" class="form-control" name="email" placeholder="Email" required="" autofocus="" />
 							  <br>
 							  <input type="password" class="form-control" name="password" placeholder="Password" required=""/>     		                                   
 					            <br>
